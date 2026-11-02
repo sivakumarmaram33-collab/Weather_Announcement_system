@@ -1,3 +1,5 @@
+https://weatherannouncementsystem-aas4omwwtkzwn5qgsocpda.streamlit.app/
+
 # 🌦️ Village Weather Assistant
 
 A simple Streamlit application that fetches current weather for an Indian village or town using OpenWeather and reads the report aloud using gTTS.
