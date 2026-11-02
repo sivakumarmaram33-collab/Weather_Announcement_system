@@ -1,4 +1,4 @@
-https://weatherannouncementsystem-aas4omwwtkzwn5qgsocpda.streamlit.app/
+[click here to view the weather announcement system](https://weatherannouncementsystem-aas4omwwtkzwn5qgsocpda.streamlit.app/)
 
 # 🌦️ Village Weather Assistant
 
